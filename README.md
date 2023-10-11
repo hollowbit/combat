@@ -6,4 +6,4 @@ This is a game I made for one of my Computer Science classes. It is a partial re
 
 Graphics and sounds are made to look like the original game.
 
-Want to play? Check it out on my [website](https://hollowbit.net/play/combat/).
+Want to play? Check it out on my [website](https://hollowbit.github.io/combat/).
